@@ -32,7 +32,7 @@ This project performs data cleaning on Airbnb NYC listings to ensure accuracy, c
 - **Optimized Inventory Management**: Airbnb hosts can make better **listing adjustments**, increasing occupancy by **10-20%**.
 
 ## Author
-Your Name
+Abhinay kumar
 
 ---
-For questions, reach out via [LinkedIn](https://linkedin.com/in/yourprofile).
+For questions, reach out via [LinkedIn](https://linkedin.com/in/theabhinaykumar).
